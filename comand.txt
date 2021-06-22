@@ -9,6 +9,8 @@ git mv file.txt comand.txt
 
 git mv comand.txt sub/comand.txt
 
+git commit -am "storyline"
+
 git restore comand.txt
 
 git commit --amend -m "storyLine"
