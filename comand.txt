@@ -1,0 +1,20 @@
+git init/clone
+
+git add .
+git commit -m "storyLine"
+
+git rm delete.txt
+
+git mv file.txt comand.txt
+
+git mv comand.txt sub/comand.txt
+
+git restore comand.txt
+
+git commit --amend -m "storyLine"
+
+git checkout (Hexacode) -- file.txt
+
+git revert HEAD~(number)
+
+git diff
